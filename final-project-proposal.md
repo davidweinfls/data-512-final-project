@@ -16,6 +16,7 @@ My goal after this project is to explore consumer electronics market in order to
 The dataset contains over 7000 customer reviews for more than 50 unique electronic products from online retailer websites such as Amazon and Bestbuy. The dataset includes a list of reviews for products, such as `id`, `numHelpful`, `review data`, `rating`, `title`, and etc. The dataset contains 27 columns but not all columns are useful. To make it easier for the reader, I only listed columns I intend to use:
 
 Schema (non-comprehensive)
+
 | Column | Description |
 |---------|-----------|
 |asins|ASINs (Amazon identifiers) for the product|
@@ -27,7 +28,8 @@ Schema (non-comprehensive)
 |reviews.rating|a 1 to 5 start value for the review|
 |reviews.title|the review's title|
 
-The dataset can be found [here](https://data.world/datafiniti/amazon-and-best-buy-electronics)
+
+The dataset can be found [here](https://data.world/datafiniti/amazon-and-best-buy-electronics).
 It has the `CC BY-NC-SA` LICENSE which makes it eligible to be shared with everyone.
 
 I found this dataset to be helpful for me to answer my questions such as the trend of different electronic products, products with high ratings, and product with low ratings. 
