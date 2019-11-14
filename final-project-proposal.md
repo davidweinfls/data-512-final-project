@@ -33,7 +33,7 @@ The dataset can be found [here](https://data.world/datafiniti/amazon-and-best-bu
 It has the `CC BY-NC-SA` LICENSE which makes it eligible to be shared with everyone.
 
 I found this dataset to be helpful for me to answer my questions such as the trend of different electronic products, products with high ratings, and product with low ratings. 
-I don't see any ethical concerns for using this dataset as it's properly licensed. All of the entries in the dataset are available online to public. At first I'm concerned the customer reviews might consider personal identifiable information, but it appears the reviews are all anonymous and no reviewer names are recorded in the dataset.
+I don't see any ethical concerns for using this dataset as it's properly licensed. All of the entries in the dataset are available online to public. At first I'm concerned the customer reviews might contain personal identifiable information, but it appears the reviews are all anonymous and no reviewer names are recorded in the dataset.
 
 To add more to the dataset. The dataset from the link above is a small subset of a large database. Datafiniti, a company providing database for instant access to web data, collects and compiles these product data from thousands of websites and stores it centrally. The good thing of using dataset vended by Datafiniti is that I can use API to query rich data, in addition to the sample dataset I downloaded. In the course of the project, I might need to query Datafiniti to get pricing data for
 the products. From Datafiniti's terms, I am free to reproduce, distribute, build, and manipulate upon Datafiniti data.
