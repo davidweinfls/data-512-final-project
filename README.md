@@ -6,7 +6,7 @@ The output of this project is a fully executable Jupyter Notebook which can be u
 
 ## Sample Findings
 
-![alt text](https://github.com/davidweinfls/data-512-final-project/blob/master/Echo Show Most Reviewed Words.png)
+![alt text](https://github.com/davidweinfls/data-512-final-project/blob/master/EchoShowMostReviewedWords.png)
 
 
 ## Repository Structure
