@@ -25,7 +25,7 @@ The output of this project is a fully executable Jupyter Notebook which can be u
 All processes and code are documented in the `FinalProject.ipynb` Jupyter Notebook. It's is entirely executable with the data source file `data.csv`. There's a `Table of Contents` section in the notebook to layout the details of the research. There's also a presentation pdf file, `Final Presentation.pdf`, which is an abstract of the project and has been used in a 5min presentation during class.
 
 ## References
-- link to DATA512i course website, https://wiki.communitydata.science/Human_Centered_Data_Science_(Fall_2019)
+- link to DATA512 course website, https://wiki.communitydata.science/Human_Centered_Data_Science_(Fall_2019)
 - Amazon has sold more than 100 million Alexa devices, https://www.cnet.com/news/amazon-has-sold-more-than-100-million-alexa-devices/
 - Net Promoter Score, https://en.wikipedia.org/wiki/Net_Promoter
 - Data source, https://data.world/datafiniti/consumer-reviews-of-amazon-products
